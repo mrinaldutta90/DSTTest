@@ -29,7 +29,7 @@ namespace Pets.Models
         public List<Pet> pets { get; set; }
 
         /// <summary>
-        /// getCatsList() connects to the remote JSON and fetches a list of observable cats 
+        /// getCatsList() connects to the remote JSON and fetches a list of observable pets 
         /// </summary>
         public List<ObservablePets> getPetsList()
 
@@ -78,7 +78,7 @@ namespace Pets.Models
                 #endregion
 
 
-                #region Getting the lists of cats for males and females
+                #region Getting the lists of pets for males and females
 
                 foreach (Person person in (from person in persons where person.gender == "Male" select person).ToList())
                     {
@@ -138,7 +138,7 @@ namespace Pets.Models
     }
 
     /// <summary>
-    /// The Observable class for the list of cats corresponding to each gender 
+    /// The Observable class for the list of pets corresponding to each gender 
     /// </summary>
     public class ObservablePets
     {
