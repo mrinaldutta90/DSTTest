@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "GetCats";
+}
+<!DOCTYPE html>
+
+
+
+@foreach (Pets.Models.ObservablePets observablePets in Model)
+{
+    {<h3> @observablePets.gender</h3>}
+
+    foreach (string catName in observablePets.pets)
+    {
+        {<li> @catName</li>}
+    }
+
+}
+
+
+
+

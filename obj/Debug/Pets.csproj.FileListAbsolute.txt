@@ -1,0 +1,74 @@
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\csc.exe
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\Microsoft.CSharp.Core.targets
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\System.Collections.Immutable.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\System.Reflection.Metadata.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\vbc.exe
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\VBCSCompiler.exe
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\roslyn\VBCSCompiler.exe.config
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Pets.dll.config
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Pets.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Pets.pdb
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Antlr3.Runtime.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Microsoft.Web.Infrastructure.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Newtonsoft.Json.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Helpers.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Mvc.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Optimization.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Razor.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.WebPages.Deployment.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.WebPages.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.WebPages.Razor.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\WebGrease.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Helpers.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Mvc.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Optimization.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.Razor.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.WebPages.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.WebPages.Deployment.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\System.Web.WebPages.Razor.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Antlr3.Runtime.pdb
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\bin\Newtonsoft.Json.xml
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\obj\Debug\Pets.dll
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\obj\Debug\Pets.pdb
+\\glbwi234\data$\Data\Users\A120640\visual studio 2015\Projects\DSTTest\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Mrinal\DST\Pets\obj\Debug\Pets.dll
+C:\Mrinal\DST\Pets\obj\Debug\Pets.pdb
+C:\Mrinal\DST\Pets\bin\Pets.dll.config
+C:\Mrinal\DST\Pets\bin\Pets.dll
+C:\Mrinal\DST\Pets\bin\Pets.pdb
+C:\Mrinal\DST\Pets\bin\Microsoft.Web.Infrastructure.dll
+C:\Mrinal\DST\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mrinal\DST\Pets\bin\System.Web.Helpers.xml
+C:\Mrinal\DST\Pets\bin\System.Web.Mvc.xml
+C:\Mrinal\DST\Pets\bin\System.Web.Optimization.xml
+C:\Mrinal\DST\Pets\bin\System.Web.Razor.xml
+C:\Mrinal\DST\Pets\bin\System.Web.WebPages.xml
+C:\Mrinal\DST\Pets\bin\System.Web.WebPages.Deployment.xml
+C:\Mrinal\DST\Pets\bin\System.Web.WebPages.Razor.xml
+C:\Mrinal\DST\Pets\bin\Antlr3.Runtime.pdb
+C:\Mrinal\DST\Pets\bin\Newtonsoft.Json.xml
+C:\Mrinal\DST\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Mrinal\Pets\bin\Pets.dll.config
+C:\Mrinal\Pets\bin\Pets.dll
+C:\Mrinal\Pets\bin\Pets.pdb
+C:\Mrinal\Pets\bin\Microsoft.Web.Infrastructure.dll
+C:\Mrinal\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mrinal\Pets\bin\System.Web.Helpers.xml
+C:\Mrinal\Pets\bin\System.Web.Mvc.xml
+C:\Mrinal\Pets\bin\System.Web.Optimization.xml
+C:\Mrinal\Pets\bin\System.Web.Razor.xml
+C:\Mrinal\Pets\bin\System.Web.WebPages.xml
+C:\Mrinal\Pets\bin\System.Web.WebPages.Deployment.xml
+C:\Mrinal\Pets\bin\System.Web.WebPages.Razor.xml
+C:\Mrinal\Pets\bin\Antlr3.Runtime.pdb
+C:\Mrinal\Pets\bin\Newtonsoft.Json.xml
+C:\Mrinal\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Mrinal\Pets\obj\Debug\Pets.dll
+C:\Mrinal\Pets\obj\Debug\Pets.pdb
